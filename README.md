@@ -3,4 +3,5 @@
 Stack:
 
 - Vite.js
+- TailwindCSS
 - Cypress
